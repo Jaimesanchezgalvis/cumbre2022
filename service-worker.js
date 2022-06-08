@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cumbre2022/precache-manifest.d989a82759eef303d94a6c38daa1a08a.js"
+  "/cumbre2022/precache-manifest.8212ac8f1b20f3dbcc664bf967d86041.js"
 );
 
 self.addEventListener('message', (event) => {
