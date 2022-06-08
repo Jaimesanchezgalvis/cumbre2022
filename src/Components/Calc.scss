@@ -1,0 +1,115 @@
+body {
+    --primary-color: #F0F0F3;
+    --light-color: #FFFFFF;
+    --dark-color: rgba(174, 174, 192, 0.4);
+    background: var(--primary-color);
+}
+
+
+input {
+    z-index: 1;
+    margin: auto;
+    height: 9vh;
+    border-radius: 9px;
+    border: transparent solid 4px;
+    font-size: 2em;
+    background: rgba(174, 174, 192, 0.3);
+    font-family: 'Roboto', sans-serif;
+    color: #45597e;
+
+}
+
+button.col-3{
+    margin: auto;
+    height: 10vh;
+    border-radius: 25px;
+    border: rgba(174, 174, 192, 0.21) solid 1px;
+    font-size: 2em;
+    background: var(--primary-color);
+    color: #808B9F;
+    box-shadow: -10px -10px 30px var(--light-color), 10px 10px 30px var(--dark-color);
+}
+
+button.col-6 {
+    margin: auto;
+    height: 10vh;
+    border-radius: 25px;
+    border: rgba(174, 174, 192, 0.21) solid 1px;
+    font-size: 2em;
+    background: var(--primary-color);
+    color: #808B9F;
+    box-shadow: -10px -10px 30px var(--light-color), 10px 10px 30px var(--dark-color);
+}
+
+button.col-9 {
+    margin: auto;
+    height: 10vh;
+    border-radius: 25px;
+    border: rgba(174, 174, 192, 0.21) solid 1px;
+    font-size: 2em;
+    background: var(--primary-color);
+    color: #808B9F;
+    box-shadow: -10px -10px 30px var(--light-color), 10px 10px 30px var(--dark-color);
+}
+
+button.col-3:active {
+    border: var(--primary-color) solid 4px;
+    box-shadow: -20px -20px 60px var(--light-color),
+        20px 20px 60px var(--dark-color),
+        inset -3px -3px 10px var(--light-color),
+        inset 3px 3px 10px var(--dark-color);
+    zoom: 1.02;
+}
+button.col-6:active {
+    border: var(--primary-color) solid 4px;
+    box-shadow: -20px -20px 60px var(--light-color),
+        20px 20px 60px var(--dark-color),
+        inset -3px -3px 10px var(--light-color),
+        inset 3px 3px 10px var(--dark-color);
+    zoom: 1.02;
+}
+
+button.col-9:active {
+    border: var(--primary-color) solid 4px;
+    box-shadow: -20px -20px 60px var(--light-color),
+        20px 20px 60px var(--dark-color),
+        inset -3px -3px 10px var(--light-color),
+        inset 3px 3px 10px var(--dark-color);
+    zoom: 1.02;
+}
+
+button.col-3:focus {
+    outline: none;
+}
+
+button.col-6:focus {
+    outline: none;
+}
+
+button.col-9:focus {
+    outline: none;
+}
+
+button.col-3:hover {
+    border: var(--primary-color) solid 4px;
+    box-shadow: -10px -10px 30px var(--light-color),
+        10px 10px 30px var(--dark-color),
+        inset -3px -3px 10px var(--light-color),
+        inset 3px 3px 10px var(--dark-color);
+}
+
+button.col-6:hover {
+    border: var(--primary-color) solid 4px;
+    box-shadow: -10px -10px 30px var(--light-color),
+        10px 10px 30px var(--dark-color),
+        inset -3px -3px 10px var(--light-color),
+        inset 3px 3px 10px var(--dark-color);
+}
+
+button.col-9:hover {
+    border: var(--primary-color) solid 4px;
+    box-shadow: -10px -10px 30px var(--light-color),
+        10px 10px 30px var(--dark-color),
+        inset -3px -3px 10px var(--light-color),
+        inset 3px 3px 10px var(--dark-color);
+}

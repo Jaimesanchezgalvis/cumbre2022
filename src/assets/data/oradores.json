@@ -1,0 +1,532 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nombre": "Myriam de la Sierra",
+            "posicion": "Senior Vicepresidente & COC",
+            "avatar": "assets/oradores/myriam.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Manu Darrocha",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/manu.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Alex Rew",
+            "posicion": "Vicepresidente Regional Platinum",
+            "avatar": "assets/oradores/alexrew.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Mariano Solano",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/mariano.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Georgina Ferrón Arruzazabala",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/georgina.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Borja Rew",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/borja.png"
+        },
+        {
+            "id": 7,
+            "nombre": "Miky Palacios",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/miki.png"
+        },
+        {
+            "id": 8,
+            "nombre": "Céline Bordenave",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/celine.png"
+        },
+        {
+            "id": 9,
+            "nombre": "Pepi Morejón Rodriguez",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/pepi.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Adamo Membrives",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Adamo_Membrives_2.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Adolfo Matute",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/ADOLFO_Matute.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Adrian Mier",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Adrian_Mier.png"
+        },
+        {
+            "id": 13,
+            "nombre": "Alejandro Viadero",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Alejandro_Viadero.png"
+        },
+        {
+            "id": 14,
+            "nombre": "Andres Gonzalez",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Andres_Gonzalez.png"
+        },
+        {
+            "id": 15,
+            "nombre": "Angels Matas",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Angels_Matas.png"
+        },
+        {
+            "id": 16,
+            "nombre": "Antonio Jesus Sanchez",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Antonio_Jesus_Sanchez.png"
+        },
+        {
+            "id": 17,
+            "nombre": "Aritza Bengoetxea",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Aritza_Bengoetxea.png"
+        },
+        {
+            "id": 18,
+            "nombre": "Arnold Marin",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Arnold_Marin.png"
+        },
+        {
+            "id": 19,
+            "nombre": "Arrate Revilla",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Arrate_Revilla.png"
+        },
+        {
+            "id": 20,
+            "nombre": "Art Napolitano",
+            "posicion": "Senior Vicepresidente & COC",
+            "avatar": "assets/oradores/Oradores/ART 2.png"
+        },
+        {
+            "id": 21,
+            "nombre": "Arturo_Hidalgo",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Arturo_Hidalgo.png"
+        },
+        {
+            "id": 22,
+            "nombre": "Bash Bokhari",
+            "posicion": "Senior Vicepresidente & COC",
+            "avatar": "assets/oradores/Oradores/Bash.png"
+        },
+        {
+            "id": 23,
+            "nombre": "Bea Perez",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Bea_Perez.png"
+        },
+        {
+            "id": 24,
+            "nombre": "Cristina Campos",
+            "posicion": "Vicepresidenta Regional",
+            "avatar": "assets/oradores/Oradores/Cristina_Campos.png"
+        },
+        {
+            "id": 25,
+            "nombre": "Cristina Pozuelo",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Cristina_Pozuelo.png"
+        },
+        {
+            "id": 26,
+            "nombre": "Dani Volonino",
+            "posicion": "Senior Vicepresidente &COC",
+            "avatar": "assets/oradores/Oradores/Dani_Volonino.jpg"
+        },
+        {
+            "id": 27,
+            "nombre": "Daniel Calle",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/DANIEL_Calle.png"
+        },
+        {
+            "id": 28,
+            "nombre": "David Pindado",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/David_Pindado.png"
+        },
+        {
+            "id": 29,
+            "nombre": "Edgar Perez",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Edgar_Perez_PNG.png"
+        },
+        {
+            "id": 30,
+            "nombre": "Eduardo Lopez",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Eduardo_Lopez.png"
+        },
+        {
+            "id": 31,
+            "nombre": "Eduardo Perez",
+            "posicion": "Director General",
+            "avatar": "assets/oradores/Oradores/Eduardo_Perez_2021.png"
+        },
+        {
+            "id": 32,
+            "nombre": "Efrain Giraldo",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Efrain_Giraldo.png"
+        },
+        {
+            "id": 33,
+            "nombre": "Elsa Armas",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Elsa_Armas.png"
+        },
+        {
+            "id": 34,
+            "nombre": "Fernando Ezquerra",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Fernando_Ezquerra.png"
+        },
+        {
+            "id": 35,
+            "nombre": "Francisco Torres",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Francisco_Torres.png"
+        },
+        {
+            "id": 36,
+            "nombre": "Gabriela Suarez",
+            "posicion": "Vicepresidenta Regional",
+            "avatar": "assets/oradores/Oradores/Gabriela_Suarez.png"
+        },
+        {
+            "id": 37,
+            "nombre": "Georgina Ferron",
+            "posicion": "Vicepresidenta Regional",
+            "avatar": "assets/oradores/Oradores/Georgina_Ferron.png"
+        },
+        {
+            "id": 38,
+            "nombre": "Greg Provenzano",
+            "posicion": "Presidente & co-fundador de ACN",
+            "avatar": "assets/oradores/Oradores/Greg.png"
+        },
+        {
+            "id": 39,
+            "nombre": "Hector Seguin",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Hector_Seguin.png"
+        },
+        {
+            "id": 40,
+            "nombre": "Iker Yurrebaso",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Iker_Yurrebaso.png"
+        },
+        {
+            "id": 41,
+            "nombre": "Ines_Volonino",
+            "posicion": "Senior Vicepresidente & COC",
+            "avatar": "assets/oradores/Oradores/Ines_Volonino.jpg"
+        },
+        {
+            "id": 42,
+            "nombre": "Ion Ander Otaolea",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Ion_Ander_Otaolea.png"
+        },
+        {
+            "id": 43,
+            "nombre": "Isaac Cardona",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Isaac_Cardona.png"
+        },
+        {
+            "id": 44,
+            "nombre": "Isabel_Girol",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Isabel_Girol.png"
+        },
+        {
+            "id": 45,
+            "nombre": "Jaime Sanchez Galvis",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Jaime_Sanchez.png"
+        },
+        {
+            "id": 46,
+            "nombre": "James Adlam",
+            "posicion": "Senior Vicepresidente & COC",
+            "avatar": "assets/oradores/Oradores/James_Adlam.png"
+        },
+        {
+            "id": 47,
+            "nombre": "Javier Galeote",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Javier_Galeote.png"
+        },
+        {
+            "id": 48,
+            "nombre": "Javier Garcia",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Javier_Garcia.png"
+        },
+        {
+            "id": 49,
+            "nombre": "Javier Toledano",
+            "posicion": "National Key AcconutManager",
+            "avatar": "assets/oradores/Oradores/Javier_Toledano.png"
+        },
+        {
+            "id": 50,
+            "nombre": "Javier Torroglosa",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Javier_Torroglosa.png"
+        },
+        {
+            "id": 51,
+            "nombre": "Jesus Gomez",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/JESUS_GOMEZ.png"
+        },
+        {
+            "id": 52,
+            "nombre": "Jinsop Echevarria",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Jinsop_Echevarria.png"
+        },
+        {
+            "id": 53,
+            "nombre": "Joao Paulo Reis",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Joao_Paulo_Reis.png"
+        },
+        {
+            "id": 54,
+            "nombre": "Jose Meseguer",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Jose_Meseguer.png"
+        },
+        {
+            "id": 55,
+            "nombre": "Juan Carlos Justel",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Juan_Carlos_JUSTEL.png"
+        },
+        {
+            "id": 56,
+            "nombre": "Juan Luis Rodriguez",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Juan_Luis_Rodriguez.png"
+        },
+        {
+            "id": 57,
+            "nombre": "Juan Manuel Gomez",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Juan_Manuel_Gomez.png"
+        },
+        {
+            "id": 58,
+            "nombre": "Juan Ortin",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Juan_Ortin.png"
+        },
+        {
+            "id": 59,
+            "nombre": "Larry Raskin",
+            "posicion": "Vicepresidente Global de Lidezgo y Desarrollo",
+            "avatar": "assets/oradores/Oradores/Larry Raskin.png"
+        },
+        {
+            "id": 60,
+            "nombre": "Lucia Soriano",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Lucia_Soriano.png"
+        },
+        {
+            "id": 61,
+            "nombre": "Luis Daniel Camilo",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Luis_Daniel_Camilo.png"
+        },
+        {
+            "id": 62,
+            "nombre": "Mafe Calcines",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Mafe_Calcines.png"
+        },
+        {
+            "id": 63,
+            "nombre": "Manel Lazaro",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Manel_Lazaro.png"
+        },
+        {
+            "id": 64,
+            "nombre": "Marcos Carrillo",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Marcos_Carrillo.png"
+        },
+        {
+            "id": 65,
+            "nombre": "María Saiz",
+            "posicion": "National Key Acconut Manager",
+            "avatar": "assets/oradores/Oradores/María Saiz BIBE.png"
+        },
+        {
+            "id": 66,
+            "nombre": "Martha Angélica_Salinas",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Martha_Angélica_Salinas.png"
+        },
+        {
+            "id": 67,
+            "nombre": "Miguel Rocha",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Miguel_Rocha.png"
+        },
+        {
+            "id": 68,
+            "nombre": "Mike Cupiz",
+            "posicion": "VicePresidente & coavatar:-fundador de ACN",
+            "avatar": "assets/oradores/Oradores/Mike ok.png"
+        },
+        {
+            "id": 69,
+            "nombre": "Oier Yurrebaso",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Oier_Yurrebaso.png"
+        },
+        {
+            "id": 70,
+            "nombre": "Omar Ahumada",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/OMAR_Ahumada.png"
+        },
+        {
+            "id": 71,
+            "nombre": "Pablo Luguera",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Pablo_Luguera.png"
+        },
+        {
+            "id": 72,
+            "nombre": "Patri Jimenez",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Patri_Jimenez.png"
+        },
+        {
+            "id": 73,
+            "nombre": "Patrick_Llopis",
+            "posicion": "Vicepres: idente Regional",
+            "avatar": "assets/oradores/Oradores/Patrick_Llopis.png"
+        },
+        {
+            "id": 74,
+            "nombre": "Pepa Frigolet",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Pepa_Frigolet.png"
+        },
+        {
+            "id": 75,
+            "nombre": "Pepe Salort",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Pepe_Salort.png"
+        },
+        {
+            "id": 76,
+            "nombre": "Pepi Díaz",
+            "posicion": "Vicepresidenta Regional",
+            "avatar": "assets/oradores/Oradores/Pepi Diaz.png"
+        },
+        {
+            "id": 77,
+            "nombre": "Ramon Casate",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Ramon_Casate.png"
+        },
+        {
+            "id": 78,
+            "nombre": "Raquel Santana",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Raquel_Santana.png"
+        },
+        {
+            "id": 79,
+            "nombre": "Richard Rew",
+            "posicion": "Senior Vicepresidente",
+            "avatar": "assets/oradores/Oradores/Richard_Rew.png"
+        },
+        {
+            "id": 80,
+            "nombre": "Rita Rodriguez",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Rita_Rodriguez.png"
+        },
+        {
+            "id": 81,
+            "nombre": "Rocío Gutierrez",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Rocío_Gutierrez.png"
+        },
+        {
+            "id": 82,
+            "nombre": "Santiago Cassino",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Santi_Cassino.png"
+        },
+        {
+            "id": 83,
+            "nombre": "Sara duran",
+            "posicion": "Directora Regional",
+            "avatar": "assets/oradores/Oradores/Sara_duran.png"
+        },
+        {
+            "id": 84,
+            "nombre": "Sergio Ortega",
+            "posicion": "Vicepresidente Regional",
+            "avatar": "assets/oradores/Oradores/Sergio_Ortega.png"
+        },
+        {
+            "id": 85,
+            "nombre": "Soufyane Messouci",
+            "posicion": "Country Manager",
+            "avatar": "assets/oradores/Oradores/Soufyane_Messouci.png"
+        },
+        {
+            "id": 86,
+            "nombre": "Steven Obando",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Steven_Obando.png"
+        },
+        {
+            "id": 87,
+            "nombre": "Victor Vazquez",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Victor_Vazquez.png"
+        },
+        {
+            "id": 88,
+            "nombre": "Yago Uribe",
+            "posicion": "Director Regional",
+            "avatar": "assets/oradores/Oradores/Yago_Uribe.png"
+        }
+    ]
+}

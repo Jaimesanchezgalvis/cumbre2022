@@ -1,0 +1,117 @@
+css
+
+.containerinterno {
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    border: solid;
+    background-color: #cccccf;
+    height: 80vh;
+    background: #F0F0F3;
+    border-radius: 15px;
+    box-shadow: 20px 20px 60px #cccccf,
+    -20px -20px 60px #ffffff;
+}
+
+.img-fluid{
+    height: 20vh;
+}
+
+js 
+import React, { useEffect } from 'react';
+import '../Components/Home.scss';
+import Jaime from '../assets/Jaime.png';
+import { AiFillStar, AiOutlineLine } from 'react-icons/ai';
+import { IconContext } from 'react-icons/lib';
+import "bootstrap/scss/bootstrap.scss";
+import Footer from './Footer';
+import Navbar from './Navbar';
+import Aos from 'aos';
+import 'aos/dist/aos.css';
+import { Link } from 'react-router-dom';
+import { MdKeyboardArrowRight } from 'react-icons/md';
+
+
+
+const Home = () => {
+    useEffect(() => {
+        Aos.init();
+    }, []);
+    return (<>
+
+        <Navbar />
+    <main className="container">
+
+        <div className="containerinterno">
+
+                <div className="row">
+                    <div className="col-12">
+                        <img src={Jaime} className="img-fluid" alt="Responsive" data-aos="fade-down-left"></img>
+                    </div>
+                </div>
+
+                <div className="col-12">
+                    <h3>Jaime Sanchez Galvis</h3>
+                </div>
+
+                <div className="col-12">
+
+                    <IconContext.Provider value={{ color: '#2C3E50' }}>
+                        <AiOutlineLine className="iconoline" data-aos="fade-up-left" />
+                        <AiFillStar className="iconostart" data-aos="zoom-in" />
+                        <AiOutlineLine className="iconoline" data-aos="fade-up-right" />
+                    </IconContext.Provider>
+                    <a className='arrow-frontr' data-aos="fade-up-left"><Link to="/reconocimiento"> <MdKeyboardArrowRight style={{ 'margin-right': '2vw' }} /></Link></a>
+                </div>
+
+                <div className="container-home--subtitulo" data-aos="fade-up-right">
+                    <h2>Ing Electronico</h2>
+                    <h4>Front-End Developer</h4>
+                </div>
+
+
+        </div>
+        </main>
+
+        <Footer />
+    </>)
+}
+
+export default Home
+
+
+///////////////////////////////
+
+{/* 
+                    <div className="row">
+                        <div className="col-12 col-md-4">
+                            <img src={perfil} className="img-fluid" alt="foto de perfil" data-aos="fade-down-left"/>
+                            <div className="row">
+                            <h2>Pagina de perfil</h2>
+                            <p>Es la base por donde debes iniciar tu negocio </p>
+                            <h4>Precio: 99€</h4>
+                            </div>
+                        </div>
+
+                        <div className="col-12 col-md-4">
+                            <img src={tienda_operativa} className="img-fluid" alt="foto de perfil" data-aos="fade-down-left" />
+                            <div className="row">
+
+                            <h2>Tienda operativa</h2>
+                            <p>Te entregamos una web fincional, 100% para que empieces a trabajarla</p>
+                            <h4>Precio: 199€</h4>
+                            </div>
+                        </div>
+
+                        <div className="col-12 col-md-4">
+                            <img src={tienda_online} className="img-fluid" alt="foto de perfil" data-aos="fade-down-left" />
+                            <div className="row">
+                            <h2>Tu tienda online</h2>
+                            <p>¿Tienes un producto o servicio, y ya quieres iniciar a venderlos?</p>
+                            <h4>Precio: 299€</h4>
+                            </div>
+                        </div>
+                        
+                    </div> */}

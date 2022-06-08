@@ -1,0 +1,253 @@
+
+//Pantallas grandes
+@media (min-width:961px) {
+
+  .contenedornav {
+    position: static;
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    top: 0;
+    z-index: 1;
+    background: #F0F0F3;
+    border-radius: 15px;
+    box-shadow: 20px 20px 60px #cccccf,
+      -20px -20px 60px #ffffff;
+
+    .contenedornav--nav-menu {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      height: 10vh;
+      top: 0;
+      opacity: 1;
+      transition: all 0.5s ease;
+      list-style: none;
+      right: 6vw;
+    }
+
+
+    .contenedornav-logo {
+
+      color: #2C3E50;
+      justify-self: start;
+      cursor: pointer;
+      text-decoration: none;
+      font-size: 2rem;
+      display: flex;
+      align-items: center;
+    }
+
+    .contenedornav-logo:hover {
+      color: #2C3E50;
+      justify-self: start;
+      cursor: pointer;
+      text-decoration: none;
+      font-size: 2rem;
+      display: flex;
+      align-items: center;
+    }
+
+    .contenedornav--logosiz {
+      margin-left: 4vw;
+      left: 4vw;
+    }
+
+
+    .contenedornav-icon {
+      margin-right: 0.5rem;
+    }
+
+    .nav-menu {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      list-style: none;
+      text-align: center;
+      justify-content: end;
+      text-decoration: none;
+
+
+    }
+
+    .nav-menu .nav-item {
+      height: 80px;
+      border-bottom: 2px solid transparent;
+      display: flex;
+    }
+
+    .nav-item:hover {
+      border-bottom: 2px solid #2C3E50;
+
+      h4 {
+        text-decoration: none;
+        color: #2C3E50;
+      }
+    }
+
+
+    .nav-links {
+      color: #2C3E50;
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      height: 25%;
+
+      a {
+        text-decoration: none;
+      }
+    }
+
+    .nav-links:hover {
+      color: #2C3E50;
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      height: 100%;
+
+      a {
+        text-decoration: none;
+      }
+    }
+
+    .FaBars {
+      color: #fff;
+    }
+
+    .contenedornav--iconomenu {
+      display: none;
+    }
+  }
+}
+
+
+
+
+
+
+
+//Pantallas medianas
+@media (max-width: 960px) {
+
+
+  .contenedornav {
+    position: static;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    height: 10vh;
+    width: 100vw;
+    top: 0;
+    z-index: 1;
+    background: #F0F0F3;
+    border-radius: 15px;
+    box-shadow: 20px 20px 60px #cccccf,
+      -20px -20px 60px #ffffff;
+
+  }
+
+  .contenedornav--nav-menu {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80vw;
+    height: 47vh;
+    position: absolute;
+    top: 10vh;
+    left: -100%;
+    opacity: 1;
+    transition: all 0.5s ease;
+    list-style: none;
+  }
+
+  .contenedornav--logosiz {
+    position: absolute;
+    margin-left: 2.5vw;
+    font-size: 2.2em;
+
+    .contenedornav-icon {
+      color: #2C3E50;
+      margin-right: 0.1em;
+    }
+
+    .contenedornav-logo {
+      color: #2C3E50;
+      margin-right: 0.1em;
+    }
+  }
+
+  .contenedornav--iconomenu {
+    position: absolute;
+    right: 6.5vw;
+    margin: auto;
+    font-size: 1.8rem;
+    cursor: pointer;
+
+    .fa-times {
+      font-size: 2rem;
+    }
+  }
+
+  .contenedornav--container {
+    width: 90vw;
+    margin: auto;
+  }
+
+
+  .contenedornav--nav-menu.active {
+    display: flex;
+    list-style: none;
+    color: #2C3E50;
+    top: 12vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #F0F0F3;
+    left: 10vw;
+    width: 80vw;
+    opacity: 0.95;
+    transition: all 0.6s ease;
+    z-index: 1;
+    padding-inline-start: 0;
+    border-radius: 15px;
+    box-shadow: 20px 20px 60px #cccccf,
+      -20px -20px 60px #ffffff;
+  }
+
+  .nav-links {
+    text-align: center;
+    padding: 1rem;
+    width: 80vw;
+    display: table;
+    color: #2C3E50;
+    text-decoration: none;
+  }
+
+  .nav-links:hover {
+    color: #2C3E50;
+    transform: scale(1);
+    transition: all 0.3s ease;
+  }
+
+  .nav-item:hover {
+    border: none;
+  }
+
+  .nav-item {
+    width: 80vw;
+  }
+
+  .nav-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    height: auto;
+  }
+}
