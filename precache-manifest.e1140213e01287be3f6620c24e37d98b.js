@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09e1a10300b57e8f0bb82b28213c6ac6",
+    "revision": "0344ccf7102bd9b2c24afef4e9821601",
     "url": "/cumbre2022/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cumbre2022/static/css/2.ed68ed35.chunk.css"
   },
   {
-    "revision": "08c3b1f20a0eaba68486",
+    "revision": "ce61dfa63d60c6a846c8",
     "url": "/cumbre2022/static/css/main.217fe80c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cumbre2022/static/js/2.e8b42e28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08c3b1f20a0eaba68486",
-    "url": "/cumbre2022/static/js/main.d295f31b.chunk.js"
+    "revision": "ce61dfa63d60c6a846c8",
+    "url": "/cumbre2022/static/js/main.4b11255d.chunk.js"
   },
   {
     "revision": "862e0a6a942af00d86ea",

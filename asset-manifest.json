@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cumbre2022/static/css/main.217fe80c.chunk.css",
-    "main.js": "/cumbre2022/static/js/main.d295f31b.chunk.js",
-    "main.js.map": "/cumbre2022/static/js/main.d295f31b.chunk.js.map",
+    "main.js": "/cumbre2022/static/js/main.4b11255d.chunk.js",
+    "main.js.map": "/cumbre2022/static/js/main.4b11255d.chunk.js.map",
     "runtime-main.js": "/cumbre2022/static/js/runtime-main.74f344bd.js",
     "runtime-main.js.map": "/cumbre2022/static/js/runtime-main.74f344bd.js.map",
     "static/css/2.ed68ed35.chunk.css": "/cumbre2022/static/css/2.ed68ed35.chunk.css",
     "static/js/2.e8b42e28.chunk.js": "/cumbre2022/static/js/2.e8b42e28.chunk.js",
     "static/js/2.e8b42e28.chunk.js.map": "/cumbre2022/static/js/2.e8b42e28.chunk.js.map",
     "index.html": "/cumbre2022/index.html",
-    "precache-manifest.8212ac8f1b20f3dbcc664bf967d86041.js": "/cumbre2022/precache-manifest.8212ac8f1b20f3dbcc664bf967d86041.js",
+    "precache-manifest.e1140213e01287be3f6620c24e37d98b.js": "/cumbre2022/precache-manifest.e1140213e01287be3f6620c24e37d98b.js",
     "service-worker.js": "/cumbre2022/service-worker.js",
     "static/css/2.ed68ed35.chunk.css.map": "/cumbre2022/static/css/2.ed68ed35.chunk.css.map",
     "static/css/main.217fe80c.chunk.css.map": "/cumbre2022/static/css/main.217fe80c.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.ed68ed35.chunk.css",
     "static/js/2.e8b42e28.chunk.js",
     "static/css/main.217fe80c.chunk.css",
-    "static/js/main.d295f31b.chunk.js"
+    "static/js/main.4b11255d.chunk.js"
   ]
 }
